@@ -13,6 +13,8 @@
 
     In a nother saying, the task was to build a machine learning model that attempts to predict whether a loan from LendingClub 
     will become high risk or not. 
+    
+![image](https://user-images.githubusercontent.com/93897775/167738846-b2e2a6ac-a8ae-4653-9dd0-94a9d055f0b8.png)
 
 ```diff
 - Repo structre:
